@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hex/Desktop/Program/IMU/conio.c
+sys/select.h
+-
+stdio.h
+-
+unistd.h
+-
+termios.h
+-
+conio.h
+/home/hex/Desktop/Program/IMU/conio.h
+
+/home/hex/Desktop/Program/IMU/conio.h
+

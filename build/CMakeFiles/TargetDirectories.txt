@@ -1,0 +1,3 @@
+/home/hex/Desktop/Program/IMU/build/CMakeFiles/IMU.dir
+/home/hex/Desktop/Program/IMU/build/CMakeFiles/demo_IMU.dir
+/home/hex/Desktop/Program/IMU/build/CMakeFiles/uninstall.dir

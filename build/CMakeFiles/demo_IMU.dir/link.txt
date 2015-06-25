@@ -1,0 +1,1 @@
+/usr/bin/c++    -std=c++11    CMakeFiles/demo_IMU.dir/demo_IMU/demo_IMU.cpp.o  -o bin/demo_IMU  -L/home/hex/Desktop/Program/IMU/lib -rdynamic lib/libIMU.a -lxcommunication -lxstypes -Wl,-rpath,/home/hex/Desktop/Program/IMU/lib 

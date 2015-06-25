@@ -1,0 +1,2 @@
+/usr/bin/ar cr lib/libIMU.a  CMakeFiles/IMU.dir/deviceclass.cpp.o CMakeFiles/IMU.dir/conio.c.o
+/usr/bin/ranlib lib/libIMU.a
